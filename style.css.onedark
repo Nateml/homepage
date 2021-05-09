@@ -2,19 +2,19 @@
     align-items:  center;
     vertical-align: middle;
     font-weight: bold;
-    color: #dedbeb;
+    color: #abb2bf;
     font-size: 80px;
-    text-shadow: 5px 5px 5px #eb3f7f10;
+    text-shadow: 10px 10px 5px #00000022;
 }
 
 #box1 {
-    background-color: #2a2331;
-    color: #ed3f7f;
+    background-color: #383c44;
+    color: #e06c75;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
     border-radius: 8px;
-    box-shadow: 5px 5px 5px 5px #eb3f7f10;
+    box-shadow: 10px 10px 5px 5px #00000022;
     width:  25%;
     max-width: 300px;
     font-size: 32px;
@@ -22,13 +22,13 @@
 }
 
 #box2 {
-    background-color: #2a2331;
-    color: #9985d1;
+    background-color: #383c44;
+    color: #61afef;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
     border-radius: 8px;
-    box-shadow: 5px 5px 5px 5px #eb3f7f10;
+    box-shadow: 10px 10px 5px 5px #00000022;
     width:  25%;
     max-width: 300px;
     font-size: 32px;
@@ -36,26 +36,26 @@
 }
 
 #box3 {
-    background-color: #2a2331;
-    color: #eacac0;
+    background-color: #383c44;
+    color: #e5c07b;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
     border-radius: 8px;
     width:  25%;
-    box-shadow: 5px 5px 5px 5px #eb3f7f10;
+    box-shadow: 10px 10px 5px 5px #00000022;
     max-width: 300px;
     font-size: 32px;
     transition: transform .2s;
 }
 
 body {
-    background-color: #28222d;
+    background-color: #282c34;
     margin: 0;
     align-items:  center;
     vertical-align: middle;
     font-weight: bold;
-    color: #dedbeb;
+    color: #abb2bf;
 }
 
 .container {
@@ -98,14 +98,14 @@ a {
     width: 35%;
     height: 45px;
     max-width: 925px;
-    border: 5px solid #2a2331;
-    background-color: #2a2331;
+    border: 5px solid #383c44;
+    background-color: #383c44;
     color: #c678dd;
     font-family: inherit;
     font-size: 18px;
     margin: 10px;
     border-radius: 8px;
-    box-shadow: 5px 5px 5px 5px #eb3f7f10;
+    box-shadow: 10px 10px 5px 5px #00000022;
     transition: width 0.5s;
     transition-delay: 0.5s;
 }

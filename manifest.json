@@ -4,7 +4,7 @@
   "short_name": "Homepage",
   "version": "0.2",
   "description": "Overrides the browsers newtab page with a custom startpage.",
-  "author": "JamesDevine42",
+  "author": "Nateml",
 
   "icons": {
     "64": "img/icon64.png"

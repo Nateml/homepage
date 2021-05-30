@@ -10,9 +10,15 @@
             <div align="center" id="clock" class="clock">
                 <script src="main.js"></script>
             </div>
-            <div align="center" class="search">
-                <input type="text" id="searchbar" placeholder=" Search with DuckDuckGo...">
-                <script src="search.js"></script>
+            <div align="center" class="searchcontainer">
+                <div align="center" id='typingwords'>
+                    <span id="currentword"></span>
+                    <span id="followingwords"></span>
+                </div>
+                <div align="center" class="search">
+                    <input type="text" id="searchbar" placeholder=" Search with DuckDuckGo...">
+                    <script src="search.js"></script>
+                </div>
             </div>
             <div class="container" align="center">
                 <div id="box1">
@@ -35,6 +41,13 @@
                     <a href="https://discord.com/developers/applications">Discord API</a>
                     <br>
                     <a href="https://localhost:8000">Local host</a>
+                </div>
+                <div id="box4">
+                    <a href="#" id='wpm'>WPM</a>
+                    <br>
+                    <a href="#" id='accuracy'>Accuracy</a>
+                    <br>
+                    <a href="#" id='rawwpm'>Raw</a>
                 </div>
             </div>
         </div>
